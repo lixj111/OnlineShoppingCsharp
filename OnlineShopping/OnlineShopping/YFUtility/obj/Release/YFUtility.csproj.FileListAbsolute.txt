@@ -1,0 +1,6 @@
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\bin\Release\YFUtility.dll
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\bin\Release\YFUtility.pdb
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\obj\Release\YFUtility.csproj.AssemblyReference.cache
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\obj\Release\YFUtility.csproj.CoreCompileInputs.cache
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\obj\Release\YFUtility.dll
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\obj\Release\YFUtility.pdb

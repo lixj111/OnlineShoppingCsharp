@@ -1,0 +1,10 @@
+F:\sqlserviceinstall\lee\lee\myweb\YFDAL\bin\Release\YFDAL.dll
+F:\sqlserviceinstall\lee\lee\myweb\YFDAL\bin\Release\YFDAL.pdb
+F:\sqlserviceinstall\lee\lee\myweb\YFDAL\bin\Release\YFModel.dll
+F:\sqlserviceinstall\lee\lee\myweb\YFDAL\bin\Release\YFUtility.dll
+F:\sqlserviceinstall\lee\lee\myweb\YFDAL\bin\Release\YFModel.pdb
+F:\sqlserviceinstall\lee\lee\myweb\YFDAL\bin\Release\YFUtility.pdb
+F:\sqlserviceinstall\lee\lee\myweb\YFDAL\obj\Release\YFDAL.csproj.AssemblyReference.cache
+F:\sqlserviceinstall\lee\lee\myweb\YFDAL\obj\Release\YFDAL.csproj.CoreCompileInputs.cache
+F:\sqlserviceinstall\lee\lee\myweb\YFDAL\obj\Release\YFDAL.dll
+F:\sqlserviceinstall\lee\lee\myweb\YFDAL\obj\Release\YFDAL.pdb

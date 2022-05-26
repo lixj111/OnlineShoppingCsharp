@@ -1,0 +1,12 @@
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\bin\Debug\YFUtility.dll
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\bin\Debug\YFUtility.pdb
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\obj\Debug\YFUtility.csproj.AssemblyReference.cache
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\obj\Debug\YFUtility.csproj.CoreCompileInputs.cache
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\obj\Debug\YFUtility.dll
+F:\sqlserviceinstall\lee\lee\myweb\YFUtility\obj\Debug\YFUtility.pdb
+F:\sqlserviceinstall\lee\OnlineShopping\OnlineShopping\YFUtility\bin\Debug\YFUtility.dll
+F:\sqlserviceinstall\lee\OnlineShopping\OnlineShopping\YFUtility\bin\Debug\YFUtility.pdb
+F:\sqlserviceinstall\lee\OnlineShopping\OnlineShopping\YFUtility\obj\Debug\YFUtility.csproj.AssemblyReference.cache
+F:\sqlserviceinstall\lee\OnlineShopping\OnlineShopping\YFUtility\obj\Debug\YFUtility.csproj.CoreCompileInputs.cache
+F:\sqlserviceinstall\lee\OnlineShopping\OnlineShopping\YFUtility\obj\Debug\YFUtility.dll
+F:\sqlserviceinstall\lee\OnlineShopping\OnlineShopping\YFUtility\obj\Debug\YFUtility.pdb

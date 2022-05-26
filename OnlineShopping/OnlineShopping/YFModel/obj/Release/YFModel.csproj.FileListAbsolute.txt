@@ -1,0 +1,6 @@
+F:\sqlserviceinstall\lee\lee\myweb\YFModel\bin\Release\YFModel.dll
+F:\sqlserviceinstall\lee\lee\myweb\YFModel\bin\Release\YFModel.pdb
+F:\sqlserviceinstall\lee\lee\myweb\YFModel\obj\Release\YFModel.csproj.AssemblyReference.cache
+F:\sqlserviceinstall\lee\lee\myweb\YFModel\obj\Release\YFModel.csproj.CoreCompileInputs.cache
+F:\sqlserviceinstall\lee\lee\myweb\YFModel\obj\Release\YFModel.dll
+F:\sqlserviceinstall\lee\lee\myweb\YFModel\obj\Release\YFModel.pdb

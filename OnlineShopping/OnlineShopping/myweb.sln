@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "myweb", "myweb\", "{0B029551-50F6-45C1-B121-BC8D5F28AE8F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{252d5cb3-264f-4804-85f2-572a58f18a9e}|YFBLL.dll;{cc01009f-454d-4da8-b2b0-00c1bf6fa3ff}|YFModel.dll;{3c96803c-5f17-475f-a8c4-2c7de6b361fe}|YFDAL.dll;{00848c93-8d70-46c6-ad43-bd04c9155f9e}|YFUtility.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60095"
+		Debug.AspNetCompiler.PhysicalPath = "myweb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60095\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60095"
+		Release.AspNetCompiler.PhysicalPath = "myweb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60095\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60095"
+		SlnRelativePath = "myweb\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YFBLL", "YFBLL\YFBLL.csproj", "{252D5CB3-264F-4804-85F2-572A58F18A9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YFDAL", "YFDAL\YFDAL.csproj", "{3C96803C-5F17-475F-A8C4-2C7DE6B361FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YFModel", "YFModel\YFModel.csproj", "{CC01009F-454D-4DA8-B2B0-00C1BF6FA3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YFUtility", "YFUtility\YFUtility.csproj", "{00848C93-8D70-46C6-AD43-BD04C9155F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B029551-50F6-45C1-B121-BC8D5F28AE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B029551-50F6-45C1-B121-BC8D5F28AE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B029551-50F6-45C1-B121-BC8D5F28AE8F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B029551-50F6-45C1-B121-BC8D5F28AE8F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{252D5CB3-264F-4804-85F2-572A58F18A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252D5CB3-264F-4804-85F2-572A58F18A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252D5CB3-264F-4804-85F2-572A58F18A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252D5CB3-264F-4804-85F2-572A58F18A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C96803C-5F17-475F-A8C4-2C7DE6B361FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C96803C-5F17-475F-A8C4-2C7DE6B361FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C96803C-5F17-475F-A8C4-2C7DE6B361FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C96803C-5F17-475F-A8C4-2C7DE6B361FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC01009F-454D-4DA8-B2B0-00C1BF6FA3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC01009F-454D-4DA8-B2B0-00C1BF6FA3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC01009F-454D-4DA8-B2B0-00C1BF6FA3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC01009F-454D-4DA8-B2B0-00C1BF6FA3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00848C93-8D70-46C6-AD43-BD04C9155F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00848C93-8D70-46C6-AD43-BD04C9155F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00848C93-8D70-46C6-AD43-BD04C9155F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00848C93-8D70-46C6-AD43-BD04C9155F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C916AA9-47EC-40B5-9BD5-C4A46A65DAFD}
+	EndGlobalSection
+EndGlobal
